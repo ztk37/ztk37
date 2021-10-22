@@ -2,9 +2,9 @@
 
 #### Now
 
-- 🖤 Currently learning [NextJS](https://nextjs.org/)
+- 🖤  Currently learning [NextJS](https://nextjs.org/)
 
 #### Bio
 
-- 👾 Learning all about **Functional Programming**
-- 👽 Haskell Enthusiast
+- 👾  Learning all about **Functional Programming**
+- 👽  Haskell Enthusiast
