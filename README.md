@@ -8,5 +8,8 @@
 
 #### Bio
 
-- 👾  Learning all about **Functional Programming**
-- 👽  Haskell Enthusiast
+- ⚡ Currently working on some ideas
+- 👾 Learning all about **Functional Programming**
+- 👽 Haskell Enthusiast
+- 💬 Ping me about **Web Development**, **Functional Programming**, **Haskell**
+- 📫 Reach me on Discord ztk37#7575
