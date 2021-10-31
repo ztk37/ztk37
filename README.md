@@ -3,7 +3,7 @@
 #### Now
 
 - 🖤 Currently learning [NextJS](https://nextjs.org/)
-- 🛠️ Creating tools in Haskell and Go
+- 🛠️ Creating tools in NodeJS, Haskell and Go
 - 📊 Trying to get into AI and ML
 
 #### Bio
