@@ -2,7 +2,9 @@
 
 #### Now
 
-- 🖤  Currently learning [NextJS](https://nextjs.org/)
+- 🖤 Currently learning [NextJS](https://nextjs.org/)
+- 🛠️ Creating tools in Haskell and Go
+- 📊 Trying to get into AI and ML
 
 #### Bio
 
