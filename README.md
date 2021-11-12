@@ -4,7 +4,7 @@
 
 - 🖤 Currently learning [NextJS](https://nextjs.org/)
 - 🛠️ Creating tools in NodeJS, Haskell and Go
-- 📊 Trying to get into AI and ML
+- 📊 Trying to put Data Science into practice
 
 #### Bio
 
