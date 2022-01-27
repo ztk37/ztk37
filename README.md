@@ -1,16 +1,25 @@
 ![Banner](./banner.png)
 
-#### Now
+> Welcome to my GitHub profile.
 
-<!-- - 👀 Current obsession: `Type-Level Programming` -->
-- 🖤 Currently learning [NextJS](https://nextjs.org/)
-- 🛠️ Creating tools in NodeJS, Haskell and Go
-<!-- - 📊 Trying to put Data Science into practice -->
+<!--
+#### Things I like to use
 
-#### Bio
+> TBD
+-->
 
-- ⚡ Currently working on some ideas
-- 👾 Learning all about **Functional Programming**
-- 👽 Haskell Enthusiast
-- 💬 Ping me about **Web Development**, **Functional Programming**, **Haskell**
-- 📫 Reach me on Discord ztk37#7575
+#### About me
+
+- :atom_symbol: Thinking in [React](https://reactjs.org/), [Redux](https://redux.js.org/), [NextJS](https://nextjs.org/) & [Gatsby](https://www.gatsbyjs.com/)
+- :zap: Currently working on [Demorga](https://github.com/demorga)
+- :alien: Playing around with **Functional Programming** and **Logic Programming**
+- :space_invader: Programming Languages Enthusiast
+<!-- - 📊 Planing to put Data Science into practice -->
+- :speech_balloon: You can ping me about: `Everything that could be interesting`
+
+---
+
+Reach me on:
+
+> Discord `ztk37#7575` &nbsp;&middot;&nbsp;
+> Twitter [@ztk375](https://twitter.com/ztk375)
