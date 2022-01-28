@@ -14,8 +14,8 @@
 - :zap: Currently working on [Demorga](https://github.com/demorga)
 - :alien: Playing around with **Functional Programming** and **Logic Programming**
 - :space_invader: Programming Languages Enthusiast
-<!-- - 📊 Planing to put Data Science into practice -->
 - :speech_balloon: You can ping me about: `Everything that could be interesting`
+<!-- - 📊 Planing to put Data Science into practice -->
 
 ---
 
