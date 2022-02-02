@@ -10,7 +10,7 @@
 
 #### About me
 
-- :atom_symbol: Thinking in [React](https://reactjs.org/), [Redux](https://redux.js.org/), [NextJS](https://nextjs.org/) & [Gatsby](https://www.gatsbyjs.com/)
+<!-- - :atom_symbol: Thinking in [React](https://reactjs.org/), [Redux](https://redux.js.org/), [NextJS](https://nextjs.org/) & [Gatsby](https://www.gatsbyjs.com/) -->
 - :zap: Currently working on [Demorga](https://github.com/demorga)
 - :alien: Playing around with **Functional Programming** and **Logic Programming**
 - :space_invader: Programming Languages Enthusiast
