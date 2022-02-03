@@ -18,25 +18,25 @@
 
 > Welcome to my GitHub profile.
 
-#### Languages and Tools
+<!-- #### Languages and Tools
 
 <p>
-<!--   <img src="https://img.shields.io/badge/Code-Nix-informational?style=flat&logo=nixos&logoColor=white&color=293133" /> -->
+  <img src="https://img.shields.io/badge/Code-Nix-informational?style=flat&logo=nixos&logoColor=white&color=293133" />
   <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=293133" />
   <img src="https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=293133" />
   <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=293133" />
   <img src="https://img.shields.io/badge/Code-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=293133" />
   <img src="https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=elixir&logoColor=white&color=293133" />
-<!--   <img src="https://img.shields.io/badge/Code-Erlang-informational?style=flat&logo=erlang&logoColor=white&color=293133" /> -->
-<!--   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=293133" /> -->
-<!--   <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=293133" /> -->
+  <img src="https://img.shields.io/badge/Code-Erlang-informational?style=flat&logo=erlang&logoColor=white&color=293133" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=293133" />
+  <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=293133" />
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=293133" />
-  <!-- <img src="https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=293133" /> -->
+  <img src="https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=293133" />
   <img src="https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=293133" />
   <img src="https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=293133" />
-  <!-- <img src="https://img.shields.io/badge/Code-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=293133" /> -->
-  <!-- <img src="https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=293133" />1 -->
-</p>
+  <img src="https://img.shields.io/badge/Code-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=293133" />
+  <img src="https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=293133" />
+</p> -->
 
 #### About me
 
