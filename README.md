@@ -40,9 +40,10 @@
 
 #### About me
 
-- :atom_symbol: Thinking in [React](https://reactjs.org/), [Redux](https://redux.js.org/), [NextJS](https://nextjs.org/) & [Gatsby](https://www.gatsbyjs.com/)
-- :zap: Currently working on [Demorga](https://github.com/demorga)
-- :alien: Playing around with **Functional Programming** and **Logic Programming**
+- :atom_symbol: Primary working with [React](https://reactjs.org/) & [Redux](https://redux.js.org/)
+<!-- - :atom_symbol: Thinking in [React](https://reactjs.org/), [Redux](https://redux.js.org/), [NextJS](https://nextjs.org/) & [Gatsby](https://www.gatsbyjs.com/) -->
+<!-- - :zap: Currently working on [Demorga](https://github.com/demorga) -->
+- :alien: Playing around with **Functional Programming** & **Logic Programming**
 - :space_invader: Programming Languages Enthusiast
 <!-- - 📊 Planing to put Data Science into practice -->
 - :speech_balloon: You can ping me about: `Everything that could be interesting`
