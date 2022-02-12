@@ -48,6 +48,7 @@
 <!-- - :zap: Currently working on [Demorga](https://github.com/demorga) -->
 <!-- - 📊 Planing to put Data Science into practice -->
 
+<!--
 ---
 
 <details>
@@ -58,3 +59,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztk37&layout=compact&theme=radical"/>
   </div>
 </details>
+
+-->
