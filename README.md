@@ -41,7 +41,7 @@
 #### About me
 
 - :atom_symbol: Primary working with [React](https://reactjs.org/) & [Redux](https://redux.js.org/)
-- :space_invader: Playing around with **Functional Programming** <!-- & **Logic Programming** -->
+- :space_invader: Interested in **Functional Programming** <!-- & **Logic Programming** -->
 - :speech_balloon: You can ping me about: `Everything that could be interesting`
 <!-- - :alien: Programming Languages Enthusiast -->
 <!-- - :atom_symbol: Thinking in [React](https://reactjs.org/), [Redux](https://redux.js.org/), [NextJS](https://nextjs.org/) & [Gatsby](https://www.gatsbyjs.com/) -->
