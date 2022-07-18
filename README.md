@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./media/banner.png)
 
 <p>
   <img src="https://img.shields.io/badge/-Reach%20me%20on:-293133">
