@@ -1,0 +1,17 @@
+{
+  "name": "ztk37",
+  "private": "true",
+  "repository": "https://github.com/ztk37/ztk37.git",
+  "author": "ztk37 <ztk37.contact@gmail.com>",
+  "scripts": {
+    "checks": "yarn mdspell:report && yarn alex",
+    "mdspell": "mdspell README.md",
+    "mdspell:report": "mdspell README.md --report --ignore-acronyms",
+    "alex": "alex README.md",
+    "alex:quiet": "alex README.md --quiet"
+  },
+  "devDependencies": {
+    "alex": "^10.0.0",
+    "markdown-spellcheck": "^1.3.1"
+  }
+}
