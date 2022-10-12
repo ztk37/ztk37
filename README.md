@@ -21,6 +21,8 @@
 
 > Hi there. Welcome to my GitHub profile. :wave:
 
+<!--
+
 #### :zap: `About me`
 
 - I'm a JavaScript Engineer from Germany.
@@ -36,3 +38,5 @@
   - `Web Development`
   - `Functional Programming`
   - `And much more...`
+
+-->
