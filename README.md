@@ -1,4 +1,8 @@
+<!--
+
 <img src="./banner.png" alt="GitHub Banner">
+
+-->
 
 <p>
   <img src="https://img.shields.io/badge/-Reach%20me%20on:-293133">
